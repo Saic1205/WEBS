@@ -97,7 +97,7 @@ section .bttwo{
 }
 .change_content::after{
   content: "";
-   animation: changetext 10s infinite linear;
+   animation: changetext 5s infinite linear;
    color: #00b894;
 
 }
